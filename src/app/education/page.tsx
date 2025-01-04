@@ -21,7 +21,7 @@ const educationPage = () => {
           </FramerWrapper>
           <FramerWrapper y={0} x={100} delay={0.35} className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point ">
             <div className="text-2xl font-rubik max-sm:text-xl">
-              Bachelor of Computer Science, <br /> Riara Uinversity Kenya
+              Bachelor of Computer Science, <br /> Riara Uinversity Kenya. </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
                 I am currently Studying Bachelor of ComputerScience From Riara University. 
                 The program has provided me with a well-rounded education, covering both theoretical foundations and practical applications of computer science.
